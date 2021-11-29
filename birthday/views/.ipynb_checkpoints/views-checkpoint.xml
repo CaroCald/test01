@@ -10,6 +10,7 @@
                  <field name="birthday"/>
             </xpath> 
           </field>  
-      </record>
+
+      </record>  
   </data>
 </odoo>
