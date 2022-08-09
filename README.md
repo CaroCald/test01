@@ -1,2 +1,2 @@
 # test01
-# init main desde otra rama 2
+# init de nuevo desde otra rama 2
